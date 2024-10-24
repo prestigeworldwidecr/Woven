@@ -1,0 +1,8 @@
+https://www.w3schools.com/python/python_tuples_unpack.asp
+https://www.w3schools.com/python/matplotlib_pyplot.asp
+https://www.w3schools.com/python/python_server.asp
+https://www.w3schools.com/python/pandas/pandas_getting_started.asp
+https://stackoverflow.com/questions/24962908/how-can-i-read-only-the-header-column-of-a-csv-file-using-python
+https://stackoverflow.com/questions/46122910/display-print-one-column-from-a-dataframe-of-series-in-pandas
+https://www.geeksforgeeks.org/how-to-select-multiple-columns-in-a-pandas-dataframe/
+https://stackoverflow.com/questions/41286569/get-total-of-pandas-column
